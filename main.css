@@ -97,9 +97,11 @@ h3{font-family: 'Manrope' !important; font-size: 2.8rem; font-weight: 800; lette
     width: 100%;
   }
  
-
+  @media screen and (max-width: 1920px){
+    html{font-size: 9px;}
+}  
+  
 @media screen and (max-width: 1440px){
-    html{min-width: 1440px;}
     html{font-size: 9px;}
     .careerCont{padding: 6rem 7rem;}
 }
