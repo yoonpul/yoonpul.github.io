@@ -11,7 +11,7 @@ body::-webkit-scrollbar-thumb{background: #333; border-radius: 999px; border: 6p
 body::-webkit-scrollbar-track{background: transparent;}
 main{padding: 12rem 15rem;
     width: 100%; height: 100vh; 
-    background: #050a08 url('./images/top_img.png') center no-repeat; background-size: 92vw;
+    background: #050a08 url('./images/top_img.png') center no-repeat; background-size: 96vw;
 }
 
 main .float{display: flex; justify-content: space-between; width: 100%;}
